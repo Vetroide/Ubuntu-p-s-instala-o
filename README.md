@@ -1,0 +1,1 @@
+Esse script, remove o snap do Ubuntu e instala a GNOME Software com Flatpak. Ele também remove o Libreoffice e o Firefox com snap e instala o Brave browser, também remove a telemetria da CANONICAL e Ads do terminal. A interface gráfica, continua sendo a do Ubuntu mesmo.
